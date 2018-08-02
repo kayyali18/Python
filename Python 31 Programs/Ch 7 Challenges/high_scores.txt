@@ -1,0 +1,5 @@
+One:	9
+
+Ahmad:	8
+Bash:	10
+Manasra:	15

@@ -1,0 +1,46 @@
+An Episode You Can't Refuse
+Exception Handling
+In exception handling, which keyword starts the block of code that contains /the code to be run should an error occur?
+else
+except
+exception
+try_again
+2
+5
+It's code dude, I didn't make python.
+Either Exit or Answer the Question
+How would you go about telling the program to exit itself?
+system.exit ()
+sys.quit ()
+sys.exit ()
+sys.abort ()
+3
+4
+sys.exit () quits the program.
+Error Error Error
+Which error is raised when a calculation exceeds the maximum limit for \a numeric type
+AssertionError
+OverflowError
+IOError
+IndexError
+2
+4
+If you Overflow something, it'll drown.
+Yeah it's the right type, but nothing I can handle
+What error do you get when you give a built-in function a right type of /argument, but an invalid value?
+TypeError
+SyntaxError
+ValueError
+EnvironmentError
+3
+3
+For instance, pythong can convert a string of numbers to a float. /But it cannot convert a string of letters to a float: such /a move would result in a ValueError.
+End of Trivia?
+What Error is raised when there is no input from the input() function /and the end of file is reached?
+ImportError
+AttributeError
+InputError
+EOFError
+4
+2
+EOFError stands for End Of File Error! BTW It's EOFTrivia (:
